@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo, saya Zetus252 👋
 
-<!--
-**Zetus252/Zetus252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F5D4&lines=Seorang+pelajar;Belajar+programming;Ingin+jadi+developer+hebat!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Statistik GitHub saya
+![Zetus252's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zetus252&show_icons=true&theme=tokyonight)
+
+---
+
+### 🏆 Trophy GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zetus252&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+✨ Terima kasih sudah mampir ke profil saya!
