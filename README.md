@@ -7,7 +7,7 @@
 ---
 
 <!-- GIF Coding -->
-<img align="center" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm52Z3M2NWpyZDVmeDl3dXMzNno3b3NmZmhoYjFsN2t1dWh6dmt2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif">
+<img align="center" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5YzU5bDYydThmaTEzYnEyc3hieHplMWdtaDFmZHlscHkwdjY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
 
 🌱 Saat ini saya sedang belajar **HTML, CSS, dan JavaScript**
 - 🎯 Tujuan saya: mengembangkan ide pribadi kedalam dunia digital
