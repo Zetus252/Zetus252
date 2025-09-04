@@ -7,7 +7,7 @@
 ---
 
 <!-- GIF Coding -->
-<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/illustration-rainbow-unicorn-26AHG5KGFxSkUWw1i">
+<img align="center" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm52Z3M2NWpyZDVmeDl3dXMzNno3b3NmZmhoYjFsN2t1dWh6dmt2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif">
 
 🌱 Saat ini saya sedang belajar **HTML, CSS, dan JavaScript**
 - 🎯 Tujuan saya: menjadi **developer hebat** dan bisa berkontribusi di dunia open source
