@@ -2,7 +2,7 @@
 <h3 align="center">Pelajar | Calon Web Developer | Tech Enthusiast</h3>
 
 <!-- Animasi teks -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Welcome+to+my+profile!;Saya+suka+belajar+coding;Let's+build+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Welcome+to+my+profile!;Saya+suka+belajar+coding;Lets+build+something+awesome!)](https://git.io/typing-svg)
 
 ---
 
