@@ -9,8 +9,7 @@
 <!-- GIF Coding -->
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🚀 Tentang saya
-- 🌱 Saat ini saya sedang belajar **HTML, CSS, JavaScript, dan Python**
+**🌱 Saat ini saya sedang belajar **HTML, CSS, JavaScript, dan Python**
 - 🎯 Tujuan saya: menjadi **developer hebat** dan bisa berkontribusi di dunia open source
 - 📫 Hubungi saya di: **[zetus252@example.com](mailto:zetus252@example.com)**
 
@@ -18,7 +17,7 @@
 
 ### 🛠️ Bahasa & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode" />
 </p>
 
 ---
