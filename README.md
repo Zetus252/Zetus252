@@ -19,7 +19,7 @@
 
 <div align="center">
 <!-- About me -->
-## Halo semuanya, nama saya Farrel Satya Kurniawan
+##Halo semuanya, nama saya Farrel Satya Kurniawan.
   Saya adalah seorang siswa SMKN 1 Surabaya jurusan TKJ yang sedang tertarik pada dunia IT. Saya senang menumpahkan ide saya kedalam sebuah tulisan kode. Impian saya adalah dapat membantu banyak orang melalui karya digital saya
 </div>
 
