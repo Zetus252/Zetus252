@@ -15,28 +15,29 @@
   <img alt="Coding" width="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5YzU5bDYydThmaTEzYnEyc3hieHplMWdtaDFmZHlscHkwdjY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
 </p>
 
+<div align="center">
 🌱 Saat ini saya sedang belajar **HTML, CSS, dan JavaScript**
 - 🎯 Tujuan saya: mengembangkan ide pribadi kedalam dunia digital
 - 📫 Hubungi saya di: **[farrelsk10@gmail.com](mailto:farrelsk10@gmail.com)**
+</div>
 
 ---
-
-### 🛠️ Bahasa & Tools
 <p align="center">
+### 🛠️ Bahasa & Tools
   <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,vscode,unity,godot" />
 </p>
 
 ---
 
-### 📊 Bahasa yang saya gunakan
 <p align="center">
+### 📊 Bahasa yang saya gunakan
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect with me
 <p align="center">
+### 🌐 Connect with me
   <a href="https://www.instagram.com/lalerrr.zz" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
