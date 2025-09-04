@@ -1,4 +1,4 @@
-<h1 align="center">Halo 👋, saya Farrel Satya</h1>
+<h1 align="center">Halo, saya Farrel Satya</h1>
 <h3 align="center">Pelajar | Tech Enthusiast</h3>
 
 <!-- Animasi teks -->
@@ -20,7 +20,7 @@
 <div align="center">
 <!-- About me -->
 Halo semuanya, nama saya Farrel Satya Kurniawan.
-  Saya adalah seorang siswa SMKN 1 Surabaya jurusan TKJ yang sedang tertarik pada dunia IT. Saya senang menumpahkan ide saya kedalam sebuah tulisan kode. Impian saya adalah dapat membantu banyak orang melalui karya digital saya
+ Saya adalah seorang siswa SMKN 1 Surabaya jurusan TKJ yang sedang tertarik pada dunia IT. Saya senang menumpahkan ide saya kedalam sebuah tulisan kode. Impian saya adalah dapat membantu banyak orang melalui karya digital saya
 </div>
 
 ---
@@ -28,7 +28,7 @@ Halo semuanya, nama saya Farrel Satya Kurniawan.
 🛠️ Bahasa & Tools<br>
 </p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,vscode,unity,godot" align="center"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,debian,unity,godot" align="center"/>
 </div>
 
 ---
