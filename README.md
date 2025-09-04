@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 Statistik GitHub saya
+### 📊 Bahasa yang saya gunakan
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight)
 
 ---
