@@ -19,34 +19,37 @@
 
 <div align="center">
 <!-- About me -->
-##Halo semuanya, nama saya Farrel Satya Kurniawan.
+Halo semuanya, nama saya Farrel Satya Kurniawan.
   Saya adalah seorang siswa SMKN 1 Surabaya jurusan TKJ yang sedang tertarik pada dunia IT. Saya senang menumpahkan ide saya kedalam sebuah tulisan kode. Impian saya adalah dapat membantu banyak orang melalui karya digital saya
 </div>
 
 ---
 <p align="center">
-### 🛠️ Bahasa & Tools<br>
+🛠️ Bahasa & Tools<br>
 </p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,vscode,unity,godot" align="center"/>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,vscode,unity,godot" align="center"/>
+</div>
 
 ---
 
 <p align="center">
-### 📊 Bahasa yang saya gunakan<br>
+📊 Bahasa yang saya gunakan<br>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" align="center"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" align="center"/>
+</div>
 
 ---
 
 <p align="center">
-### 🌐 Connect with me
+🌐 Connect with me
 </p>
 <div align="center">
   <a href="https://www.instagram.com/lalerrr.zz" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </div>
----
 
-✨ Terima kasih sudah mampir ke profil saya!
+
+<p align="center">✨ Terima kasih sudah mampir ke profil saya!</p>
