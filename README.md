@@ -25,7 +25,7 @@ Halo semuanya, nama saya Farrel Satya Kurniawan.
 
 ---
 <p align="center">
-🛠️ Bahasa & Tools<br>
+Bahasa & Tools<br>
 </p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" align="center"/>
@@ -34,7 +34,7 @@ Halo semuanya, nama saya Farrel Satya Kurniawan.
 ---
 
 <p align="center">
-📊 Bahasa yang saya gunakan<br>
+Bahasa yang saya gunakan<br>
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" align="center"/>
@@ -43,7 +43,7 @@ Halo semuanya, nama saya Farrel Satya Kurniawan.
 ---
 
 <p align="center">
-🌐 Connect with me
+Connect with me
 </p>
 <div align="center">
   <a href="https://www.instagram.com/lalerrr.zz" target="blank">
@@ -52,4 +52,4 @@ Halo semuanya, nama saya Farrel Satya Kurniawan.
 </div>
 
 
-<p align="center">✨ Terima kasih sudah mampir ke profil saya!</p>
+<p align="center">Terima kasih sudah mampir ke profil saya!</p>
