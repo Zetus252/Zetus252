@@ -34,15 +34,6 @@ Bahasa & Tools<br>
 ---
 
 <p align="center">
-Bahasa yang saya gunakan<br>
-</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" align="center"/>
-</div>
-
----
-
-<p align="center">
 Connect with me
 </p>
 <div align="center">
