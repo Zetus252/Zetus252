@@ -28,7 +28,7 @@ Halo semuanya, nama saya Farrel Satya Kurniawan.
 Bahasa & Tools<br>
 </p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,linux,nodejs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,kali,nodejs" align="center"/>
 </div>
 
 ---
