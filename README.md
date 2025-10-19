@@ -1,46 +1,48 @@
-<h1 align="center">Halo, saya Farrel Satya</h1>
-<h3 align="center">Pelajar | Tech Enthusiast</h3>
+<!-- Profil README Keren by Farrel -->
 
-<!-- Animasi teks -->
+<h1 align="center">Yo, gue Farrel 👋</h1>
+<p align="center">Pelajar yang doyan ngulik coding & bikin sesuatu dari nol 🚀</p>
+
+---
+
+### ⚡ Tentang Gue
+- 🧑‍💻 Lagi belajar: Web Dev & Game Dev  
+- 🎮 Suka eksperimen di Godot, Python, dan JavaScript  
+- 💭 Motto: *"Code, fail, repeat — until it’s dope."*
+
+---
+
+### 📊 Statistik GitHub
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Welcome+to+my+profile!!" alt="Typing SVG">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </p>
 
 ---
 
-<!-- GIF Coding -->
+### 🔥 Streak Coding
 <p align="center">
-  <img alt="Coding" width="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5YzU5bDYydThmaTEzYnEyc3hieHplMWdtaDFmZHlscHkwdjY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
+  <img src="https://streak-stats.demolab.com?user=USERNAME_LO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<div align="center">
-<!-- About me -->
-Halo semuanya, nama saya Farrel Satya Kurniawan.
- Saya adalah seorang siswa SMKN 1 Surabaya jurusan TKJ yang sedang tertarik pada dunia IT. Saya senang menumpahkan ide saya kedalam sebuah tulisan kode. Impian saya adalah dapat membantu banyak orang melalui karya digital saya
-</div>
-
----
+### 🧰 Bahasa & Tools
 <p align="center">
-Bahasa & Tools<br>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,godot,git,github,vscode" />
 </p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,kali,nodejs" align="center"/>
-</div>
 
 ---
 
+### 💬 Connect
 <p align="center">
-Connect with me
+  <a href="https://github.com/USERNAME_LO"><img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:EMAIL_LO"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<div align="center">
-  <a href="https://www.instagram.com/lalerrr.zz" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-</div>
 
+---
 
-<p align="center">Terima kasih sudah mampir ke profil saya!</p>
+<p align="center">
+  <i>"Ngoding bukan cuma soal skill, tapi soal mental nge-fix error jam 3 pagi."</i> 🧩
+</p>
