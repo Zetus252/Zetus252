@@ -33,9 +33,3 @@
   <a href="https://github.com/Zetus252"><img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:farrelsk10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center">
-  <i>"Usaha mengalahkan bakat"</i> 🧩
-</p>
