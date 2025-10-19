@@ -23,7 +23,7 @@
 
 ### Bahasa & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,godot,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,node,godot,unity,bootstrap,linux" />
 </p>
 
 ---
