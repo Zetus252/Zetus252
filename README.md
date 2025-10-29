@@ -28,7 +28,7 @@
 
 ### Bahasa & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,godot,unity,bootstrap,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
