@@ -14,7 +14,7 @@
 
 <h1 align="center">Bahasa</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" alt="Top Langs" height="165" align="center"/>
 </p>
 
 ---
