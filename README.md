@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I am Farrel</h1>
 <p align="center">
-  <img src="cat.gif" width="500" alt="GIF" />
+  <img src="cat.gif" alt="GIF" />
 </p>
 <p align="center">I'm a student at a vocational high school in Surabaya. I love pouring my random ideas into code and storing them here!</p>
 <h1 align="center">Github Statistic</h1>
