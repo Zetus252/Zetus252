@@ -1,7 +1,7 @@
 <!-- Profil README Keren by Farrel -->
 
 <h1 align="center">Hello, I am Farrel</h1>
-![](Cat Sup GIF.gif)
+![](cat.gif)
 <p align="center">I'm a student at a vocational high school in Surabaya. I love pouring my random ideas into code and storing them here!</p>
 
 ---
