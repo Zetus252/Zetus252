@@ -1,18 +1,18 @@
 <!-- Profil README Keren by Farrel -->
 
 <h1 align="center">Halo, saya Farrel</h1>
-<p align="center">Saya adalah seorang pelajar salah satu SMK Negeri di Surabaya, Saya senang menumpahkan ide random saya kedalam sebuah kode dan menyimpannya disini!</p>
+<p align="center">I'm a student at a vocational high school in Surabaya. I love pouring my random ideas into code and storing them here!</p>
 
 ---
 
-<h1 align="center">Statistik GitHub</h1>
+<h1 align="center">Github Statistic</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zetus252&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/><br>
 
 ---
 
-<h1 align="center">Bahasa</h1>
+<h1 align="center">Language</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetus252&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </p>
