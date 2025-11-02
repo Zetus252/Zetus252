@@ -1,6 +1,6 @@
 <!-- Profil README Keren by Farrel -->
 
-<h1 align="center">Halo, saya Farrel</h1>
+<h1 align="center">Hello, I am Farrel</h1>
 <p align="center">I'm a student at a vocational high school in Surabaya. I love pouring my random ideas into code and storing them here!</p>
 
 ---
