@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm a student<br>🌱I'm currently learning about Game Development & Web Development<br>
+🔭I'm a student<br>🌱I'm currently learning about Networking & Web Development<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lalerrr.zz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farrelsk10@gmail.com) 
