@@ -1,77 +1,47 @@
-# Hi there 👋 I'm Farrel
+<h1 align="center">Halo, saya Farrel Satya</h1>
+<h3 align="center">Pelajar | Tech Enthusiast</h3>
 
-💻 Web Developer | 🎮 Game Developer | 🔐 Cybersecurity Enthusiast
-🇮🇩 Indonesia
-
----
-
-## 🚀 Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<!-- Animasi teks -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&lines=Welcome+to+my+profile!!" alt="Typing SVG">
+  </a>
 </p>
 
 ---
 
-### 🌐 Web Development
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<!-- GIF Coding -->
+<p align="center">
+  <img alt="Coding" width="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5YzU5bDYydThmaTEzYnEyc3hieHplMWdtaDFmZHlscHkwdjY0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
 </p>
 
 ---
 
-### 🎮 Game Development
+<div align="center">
+<!-- About me -->
+Halo semuanya, nama saya Farrel Satya Kurniawan.
+ Saya adalah seorang siswa SMKN 1 Surabaya jurusan TKJ yang sedang tertarik pada dunia IT. Saya senang menumpahkan ide saya kedalam sebuah tulisan kode. Impian saya adalah dapat membantu banyak orang melalui karya digital saya
+</div>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50"/>
+---
+<p align="center">
+Bahasa & Tools<br>
 </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,linux,nodejs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,kali,nodejs" align="center"/>
+</div>
 
 ---
 
-### 🛠️ Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<p align="center">
+Connect with me
 </p>
+<div align="center">
+  <a href="https://www.instagram.com/lalerrr.zz" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</div>
 
----
 
-### 🌐 Networking
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Current Focus
-
-* Web Development
-* Python Programming
-* Game Development with Godot
-* Cybersecurity Learning
-
----
-
-## ⚡ Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+<p align="center">Terima kasih sudah mampir ke profil saya!</p>
