@@ -1,5 +1,5 @@
 <h1 align="center">Halo, saya Farrel Satya</h1>
-<h3 align="center">Pelajar | Tech Enthusiast</h3>
+<h3 align="center">Student | Tech & Network Enthusiast</h3>
 
 <!-- Animasi teks -->
 <p align="center">
@@ -29,7 +29,6 @@ Bahasa & Tools<br>
 </p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,linux,nodejs" align="center"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,kali,nodejs" align="center"/>
 </div>
 
 ---
